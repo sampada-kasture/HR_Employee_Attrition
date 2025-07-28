@@ -79,12 +79,5 @@ This capstone project analyzes a fictional HR dataset to uncover patterns relate
 - Experience (years at company, years with manager) **negatively correlates** with attrition
 
 ---
-
-## Repository Structure
-
-📦 HR-Attrition-Capstone/
-├── HR_Attrition_Capstone_Notebook.ipynb
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv
-├── HR_Employee_Attrition_PartII.ipynb
-├── README.md
+Author Sampada Kasture
 
